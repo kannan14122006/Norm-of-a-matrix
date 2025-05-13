@@ -47,8 +47,8 @@ print("{:.2f}".format(ans))
 
 # Infinity Norm of a Matrix
 '''
-name : santhosh V
-reg no: 212224230252
+name : kannan R
+reg no: 212224240072
 '''
 import numpy as np
 a=np.array(eval(input()))
